@@ -1,6 +1,6 @@
 # Spring-Boot-API-Alura
 <p></p>
-SPRING BOOT API REST: SEGURANÇA DA API, CACHE E MONITORAMENTO
+SPRING BOOT API REST: SEGURANÇA DA API, CACHE E MONITORAMENTO<p></p>
 •	Paginação e ordenação de recursos, melhorando desempenho com Spring Cache, 
 proteção com Spring Security, gerando token com JWT autenticação via JWT, monitoramento com Spring Boot Actuator, 
 documentação da API com Swagger.
